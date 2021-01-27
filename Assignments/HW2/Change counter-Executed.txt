@@ -1,0 +1,10 @@
+Python 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:38:22) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+How many quarters do you have?4
+How many dimes do you have?5
+How many nickels do you have?9
+How many pennies do you have?4
+4 quarters, 5 dimes, 9 nickels, and 4 pennies = $1.99
+>>> 

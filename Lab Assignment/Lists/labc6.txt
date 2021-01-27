@@ -1,0 +1,14 @@
+Group 	 Name 
+1	He-Man
+5	Josephine Baker
+2	Bill Nye
+4	Emily Dickenson
+2	Miley Cyrus
+5	Catherine Deneuve
+5	Ada Lovelace
+4	Kanye West
+4	F. Scott Fitzgerald
+4	Lady Gaga
+2	Incredible Hulk
+5	Darth Vader
+1	George Clooney

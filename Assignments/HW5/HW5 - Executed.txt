@@ -1,0 +1,16 @@
+Python 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:38:22) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter number of credits: 70
+Grade level: Junior
+Enter first exam score: 70
+Enter second exam score: 60
+Enter third exam score: 90
+Highest score = 90
+Lowest score = 60
+Enter number of shirts: 7
+Total shirt cost = $69.65
+Shipping and handling = $5.95
+Total final cost = $75.60
+>>> 

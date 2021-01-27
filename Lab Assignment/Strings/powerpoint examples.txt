@@ -1,0 +1,87 @@
+Python 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:38:22) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> name = 'Tom Stutler'
+>>> first_name = name[:3]
+>>> last_name = name[4:]
+>>> print(first_name)
+Tom
+>>> print(last_name)
+Stutler
+>>> school = 'My school is MCTC'
+>>> print(school[-5:])
+ MCTC
+>>> print(school[-4:])
+MCTC
+>>> name = input("Enter your name: ")
+Enter your name: Tom Stutler
+>>> if "e" in name
+SyntaxError: invalid syntax
+>>> if "e" in name:
+	print("You have the letter e in your name")
+else:
+	print ("no e in your name")
+
+You have the letter e in your name
+>>> email = input("Enter your email: ")
+Enter your email: stutler.tom@gmail.com
+>>> if ".edu" in email:
+	print("This is a schol email")
+
+>>> if ".edu" in email:
+	print("This is a school email")
+else:
+	print("this is not a school email")
+
+this is not a school email
+>>> if ".edu" in email[-4:]:
+	print("This is a school email")
+else:
+	print("this is not a school email")
+
+this is not a school email
+>>> email = yp4761pd@minneapolis.go.edu
+SyntaxError: invalid syntax
+>>> email = 'yp4761pd@minneapolis.go.edu'
+>>> >>> if ".edu" in email[-4:]:
+	print("This is a school email")
+else:
+	print("this is not a school email")
+	
+SyntaxError: invalid syntax
+>>> if ".edu" in email[-4:]:
+	print("This is a school email")
+else:
+	print("this is not a school email")
+
+This is a school email
+>>> whisper = "hello"
+>>> shout = whisper.upper()
+>>> print(shout)
+HELLO
+>>> shout = "THIS is me SHOUTING"
+>>> whisper = shout.lower()
+>>> print(whisper)
+this is me shouting
+>>> "PDT".isalpha
+<built-in method isalpha of str object at 0x032AF760>
+>>> "PDF".isalpha()
+True
+>>> ".pdf".isalpha()
+False
+>>> "123.45".isdigit()
+False
+>>> spellingMistakes = "My ca=t pres==ses= the equals= key= when ity=pe"
+>>> newSentence = spellingMistakes.replace("=", "")
+>>> print(newSentence)
+My cat presses the equals key when itype
+>>> help(startwit())
+Traceback (most recent call last):
+  File "<pyshell#44>", line 1, in <module>
+    help(startwit())
+NameError: name 'startwit' is not defined
+>>> help(startswith())
+Traceback (most recent call last):
+  File "<pyshell#45>", line 1, in <module>
+    help(startswith())
+NameError: name 'startswith' is not defined
+>>> 

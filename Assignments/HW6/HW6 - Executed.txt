@@ -1,0 +1,20 @@
+Python 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:38:22) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter the first number: 16
+Enter the second number: 12
+To find the GCD (greatest common denominator)
+divide the larger number by the smaller number,
+replace the larger with the smaller and the smaller with the remainder.
+Repeat the process until the smaller number is 0.
+16/12 = 1 with 4 remaining.
+12/4 = 3 with 0 remaining.
+The GCD of 16 and 12 is 4.
+Enter a list of numbers, seperate each number by a space: 1 2 3 4 5
+15
+3.0
+Enter the weight of your package, in ounces: 23
+Package weight = 1 lb. 7 oz.
+Delivery charge = $4.50
+>>> 
